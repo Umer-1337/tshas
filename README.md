@@ -1,3 +1,3 @@
 Copy tshas folder in your xampp/httdocs/<br>
-Change databse connection in tshas/connection.php<br>
+Change database connection in tshas/connection.php<br>
 Your url will be http://localhost/tshas
